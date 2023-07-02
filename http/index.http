@@ -5,6 +5,10 @@ http://localhost:3001/v1/status
 
 ###
 
+https://nikolavrs-api-29f8240977bd.herokuapp.com/v1/status
+
+###
+
 http://localhost:3001/v1/testing/test
 Accept: application/json
 Authorization: Bearer -

@@ -12,6 +12,17 @@ Content-Type: application/json
 
 ###
 
+POST https://nikolavrs-api-29f8240977bd.herokuapp.com/v1/auth/login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "admin@nikolav.rs",
+  "password": "122333"
+}
+
+###
+
 POST http://localhost:3001/v1/auth/register
 Accept: application/json
 Content-Type: application/json
